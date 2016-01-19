@@ -1,5 +1,7 @@
 #Introduction to Game Development
-Coursera online courser by Michigan State University. Available at: https://www.coursera.org/learn/game-development/
+Coursera online courser by Michigan State University.
+
+Available at: https://www.coursera.org/learn/game-development/
 
 ## Content
 1. **Week 1:** No workshop, unity interface tutorial.
