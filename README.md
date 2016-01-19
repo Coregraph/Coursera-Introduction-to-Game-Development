@@ -1,5 +1,5 @@
-# CRSA-SolarSystemAssets
-SolarSystemASset workshop for Coursera Intro to Unity3D Development course
+#Introduction to Game Development
+##by Michigan State University
 
 Available at: https://www.coursera.org/learn/game-development/
 
